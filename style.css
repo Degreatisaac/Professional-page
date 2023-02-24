@@ -116,6 +116,7 @@
         flex-direction: column-reverse;
         align-items: center;
         text-align: center;
+        margin-top: -3rem;
     }
 
     .part_one {
@@ -128,7 +129,7 @@
       width: 100%;
       max-width: fit-content;
       border-radius: 50%;
-      height: 60%;
+      height: 50%;
       background: var(--img-bg);
       margin-top: 4rem;
     }
@@ -167,6 +168,7 @@
         flex-direction: column-reverse;
         align-items: center;
         text-align: center;
+        margin-top: -3rem;
     }
 
     .part_one {
@@ -192,7 +194,7 @@
     .part_two img {
         width: 100%;
         border-radius: 50%;
-        height: 60%;
+        height: 50%;
         background: var(--img-bg);
         margin-top: 4rem;
     }
